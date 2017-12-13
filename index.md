@@ -21,7 +21,7 @@
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/b3jqq" ></script>
 
 ***
-### Weldind Room
+### Welding Room
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/0onga" ></script>
 
 ***
